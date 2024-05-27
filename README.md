@@ -42,6 +42,7 @@
     Yumurtalar yendikçe Prof Duck çocuklarını kurtarır.
 3)Çarpışmalardan Kaçının: 
     Prof Duck, yavrularına veya oyun alanındaki engellerle (duvarlar, engeller vb.) çarparsa, oyun biter. Bu nedenle, ördeği kontrol ederken çarpışmalardan kaçının.
+
 ![Oyun Ekranı](image/three.png)
 
 ![Durdurma Ekranı](image/five.png)
@@ -49,6 +50,7 @@
 4)Skorunuzu Artırın:
   Oyun, oyuncuların topladıkları yumurtaların sayısına çözülen matematiksel hesaplamaların doğruluğuna   dayalı bir skor sistemi ile çalışır. Ne kadar çok yumurta toplarsanız ve sorulara doğru cevap verirseniz, o 
   kadar yüksek bir skor elde edersiniz.
+  
 ![Bitiş Ekranı](image/four.png)
 
 [![Prof Duck Video Anlatımı]()](https://youtu.be/eumEY0xP7QQ)
