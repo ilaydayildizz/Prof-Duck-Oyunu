@@ -25,25 +25,25 @@
  
  # Oyun Nasıl Oynanır?
 
-1)Kontrolleri Tanıyın:
-     Ördeği W tuşu ile yukarı, S tuşu ile aşağı, A tuşu ile sola veya D tuşu ile sağa hareket ettirebilirsiniz.
 
-2)Yemleri Toplayın:
-    Oyun genellikle bir oyun alanında yumurtaların yer aldığı bir sahne ile başlar. Ördeği kontrol ederek çıkan matematik problemlerinin doğru cevabını bulun ve  doğru cevabı yazan yumurtayı toplayın ve 
-    Yumurtalar yendikçe Prof Duck çocuklarını kurtarır.
 
-3)Çarpışmalardan Kaçının: 
-    Prof Duck, yavrularına veya oyun alanındaki engellerle (duvarlar, engeller vb.) çarparsa, oyun biter. Bu nedenle, ördeği kontrol ederken çarpışmalardan kaçının.
-
-4)Skorunuzu Artırın:
-  Oyun, oyuncuların topladıkları yumurtaların sayısına çözülen matematiksel hesaplamaların doğruluğuna   dayalı bir skor sistemi ile çalışır. Ne kadar çok yumurta toplarsanız ve sorulara doğru cevap verirseniz, o 
-  kadar yüksek bir skor elde edersiniz.
 
 
 ![Başlangıç Ekranı](image/one.png)
+1)Kontrolleri Tanıyın:
+     Ördeği W tuşu ile yukarı, S tuşu ile aşağı, A tuşu ile sola veya D tuşu ile sağa hareket ettirebilirsiniz.
 ![Bilgilendirme Ekranı](image/two.png)
+2)Yemleri Toplayın:
+    Oyun genellikle bir oyun alanında yumurtaların yer aldığı bir sahne ile başlar. Ördeği kontrol ederek çıkan matematik problemlerinin doğru cevabını bulun ve  doğru cevabı yazan yumurtayı toplayın ve 
+    Yumurtalar yendikçe Prof Duck çocuklarını kurtarır.
+3)Çarpışmalardan Kaçının: 
+    Prof Duck, yavrularına veya oyun alanındaki engellerle (duvarlar, engeller vb.) çarparsa, oyun biter. Bu nedenle, ördeği kontrol ederken çarpışmalardan kaçının.
+
 ![Oyun Ekranı](image/three.png)
 ![Durdurma Ekranı](image/five.png)
+4)Skorunuzu Artırın:
+  Oyun, oyuncuların topladıkları yumurtaların sayısına çözülen matematiksel hesaplamaların doğruluğuna   dayalı bir skor sistemi ile çalışır. Ne kadar çok yumurta toplarsanız ve sorulara doğru cevap verirseniz, o 
+  kadar yüksek bir skor elde edersiniz.
 ![Bitiş Ekranı](image/four.png)
 
 [![Prof Duck Video Anlatımı]()](https://youtu.be/eumEY0xP7QQ)
