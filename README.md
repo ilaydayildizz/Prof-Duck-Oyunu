@@ -7,16 +7,20 @@
  1) Hafıza:
      Oyun içinde problemler beş saniye gözükür. Doğru ve yanlış olmak üzere iki cevap farklı yumurtaların üzerinde yazılıdır. Problemle birlikte cevaplar da beş saniye sonra kaybolur ve birey hem problemi  hem de hangi cevabın nerede yazıldığını aklında tutar. Bu da bireyin hafızasını ölçer.  
      
+
  2)Matematiksel İşlemler:
     Oyunculara çeşitli matematiksel sorular verilir. Bunlar toplama, çıkarma, çarpma, bölme gibi temel işlemlerden oluşabilir.
     
+
  3)Hız ve Doğruluk:
      Oyuncular, ördeği kontrol ederken matematiksel soruları çözmeli ve doğru cevapları bulmalıdır. 
  	Ördeğin Büyümesi: Oyuncular doğru cevaplar verdiğinde ördek büyür. Bu, oyunun zorluğunu artırır ve oyuncuların dikkatlerini sürdürmelerini sağlar.
   
+ 
  4)Dikkat:
      Yanlış cevaplar , engellere çarpma, ördeğin kendi yavrularına değme durumunda oyuncuların Prof Duck’ı kaybederler ve oyun başlangıcına geri dönerler veya belirli bir noktaya geri götürülürler.
      
+ 
  5)Puanlama ve İlerleme:
   Oyuncular, matematiksel işlemleri doğru cevapladıkça puan kazanır.
  
