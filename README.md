@@ -1,5 +1,7 @@
 # Prof-Duck-Oyunu
 [![Prof Duck Video Anlatımı]()](https://youtu.be/eumEY0xP7QQ)
+[![Prof Duck Hikaye Fragmanı]()](https://www.youtube.com/watch?v=qj3-b-f_lJc)
+
 # Oyunun Amacı 
 İşletmelerin işe alım departmanlarındaki iş yükünü azaltmak için geliştirilmiş bir oyundur. Oyunun nihai amacı işletmenin ihtiyaç duyduğu dikkat, hafıza ve hesap özelliklerini bireylerde ölçmektir. Oyuncular, ördeği kontrol ederken matematiksel sorunları çözmeli  ve engellere,yanlış cevabın olduğu yumurtaya ve kendi yavrularına çarpmadan doğru cevabın olduğu yumurtayı toplamalıdır. Böylelikle Prof Duck yavrularına kavuşur.
 # Oyun Özellikleri ve Kuralları:
