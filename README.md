@@ -45,6 +45,7 @@
 2)Yemleri Toplayın:
     Oyun genellikle bir oyun alanında yumurtaların yer aldığı bir sahne ile başlar. Ördeği kontrol ederek çıkan matematik problemlerinin doğru cevabını bulun ve  doğru cevabı yazan yumurtayı toplayın ve 
     Yumurtalar yendikçe Prof Duck çocuklarını kurtarır.
+    
 3)Çarpışmalardan Kaçının: 
     Prof Duck, yavrularına veya oyun alanındaki engellerle (duvarlar, engeller vb.) çarparsa, oyun biter. Bu nedenle, ördeği kontrol ederken çarpışmalardan kaçının.
 
